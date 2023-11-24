@@ -1,6 +1,6 @@
 # Chat-Notebook
 
-To run this you have to have jupiter-notebook
+To run this you have to have jupiter-notebook for run on VS Code install ipykernel 
 
 You can replace your OPENAI-KEY with {your-openai-key}
 
